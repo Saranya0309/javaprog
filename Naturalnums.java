@@ -5,3 +5,4 @@ public class Nat_num {
         }
     }
 }
+
